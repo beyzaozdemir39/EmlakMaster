@@ -1,0 +1,30 @@
+.home {
+  padding: 20px;
+}
+
+.filter-card {
+  margin-bottom: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+}
+
+.house-list {
+  margin-top: 20px;
+}
+
+.house-list .ant-list-item {
+  display: flex;
+  justify-content: center;
+}
+
+.house-list .ant-card {
+  width: 100%;
+  max-width: 300px;
+}
+
+.house-list .ant-card-cover img {
+  height: 200px;
+  object-fit: cover;
+}

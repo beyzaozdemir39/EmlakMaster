@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "title": "Lüks Apartman Dairesi",
+      "description": "İlk oturan sizler olun. Ayrıcalıklı fırstalarımızdan faydalanın.",
+      "location": "Antalya",
+      "price": 4500000,
+      "type":"Satılık",
+      "rooms": 5,
+      "image": "https://imaj.emlakjet.com/cms/resize/900/675/projects/660/ind0ayfnurnqtvuaz5tm.png"
+    },
+    {
+      "id": 2,
+      "title": "Merkezi Apartman Dairesi",
+      "description": "Şehir merkezinde modern daire",
+      "location": "İstanbul",
+      "price": 25000,
+      "type":"Kiralık",
+      "rooms": 3,
+      "image": "https://imgs.nestimg.com/kozan_di_van_emlak_tan_sifir_a_kali_te_41_4060114718360536803.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Temiz Apartman Dairesi",
+      "description": "Yenilenmiş , merkezi konumda daire. Kaçırılmayacak fırsat.",
+      "location": "Ankara",
+      "price": 3950000,
+      "type":"Satılık",
+      "rooms": 2,
+      "image": "https://i0.shbdn.com/photos/11/88/67/x5_1182118867yle.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Geniş Balkonlu Ev",
+      "description": "Manzaralı, temiz , sahibinden daire",
+      "location": "Bursa",
+      "price": 3200000,
+      "type":"Satılık",
+      "rooms": 4,
+      "image": "https://i0.shbdn.com/photos/44/14/76/x5_1168441476ko0.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sahibinden Daire",
+      "description": "Lüks bir yaşam için her şey",
+      "location": "İzmir",
+      "price": 2500000,
+      "type":"Satılık",
+      "rooms": 6,
+      "image": "https://i0.shbdn.com/photos/40/66/13/x5_114440661319t.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Şehir Merkezi Daire",
+      "description": "Merkezi konumda konforlu daire",
+      "location": "İstanbul",
+      "price": 80000,
+      "type":"Kiralık",
+      "rooms": 3,
+      "image": "https://i0.shbdn.com/photos/06/08/19/1176060819ier.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sahil Kasabasında Modern Ev",
+      "description": "Denize yürüme mesafesinde",
+      "location": "Muğla",
+      "price": 2800000,
+      "type":"Satılık",
+      "rooms": 5,
+      "image": "https://cdn1.ntv.com.tr/gorsel/zJ_HdNxt5Eq8pD3FztHg9w.jpg?width=960&mode=crop&scale=both"
+    },
+    {
+      "id": 8,
+      "title": "DoğaPark Evleri",
+      "description": "Doğayla iç içe huzur dolu yaşam",
+      "location": "Kapadokya",
+      "price": 3900000,
+      "type":"Satılık",
+      "rooms": 4,
+      "image": "https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2022/09/30/thumbs_b_c_0225c1f63268f2864b286c49439f118c.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Boğaz Manzaralı Daire",
+      "description": "Boğazın eşsiz manzarası",
+      "location": "İstanbul",
+      "price": 12000000,
+      "type":"Satılık",
+      "rooms": 4,
+      "image": "https://iasbh.tmgrup.com.tr/e2b9b6/650/344/42/0/978/492?u=https://isbh.tmgrup.com.tr/sbh/2021/06/09/1623191298669.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Modern Apartman Dairesi",
+      "description": "Doğa ile iç içe yaşam",
+      "location": "Trabzon",
+      "price": 6000,
+      "type":"Kiralık",
+      "rooms": 3,
+      "image": "https://emlak11.netsoftyazilim.com/050049056057056/380/0/049049051056049/0/0/9/9/qq1g-opyg-onkh1ufk67ng00_ipek-insaattan-beykent-perlavista-avm-yakin-krediye-uygun-3-1-sik-daire.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Küçük Müstakil Ev",
+      "description": "Şirin ve kullanışlı",
+      "location": "Antalya",
+      "price": 17000,
+      "type":"Kiralık",
+      "rooms": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gBVvbr00Xq1uzZxgpscFygcecLYCkgk-4w&s"
+    },
+    {
+      "id": 12,
+      "title": "Deniz Kenarında Yazlık",
+      "description": "Tatil için ideal",
+      "location": "Bodrum",
+      "price": 5700000,
+      "type":"Satılık",
+      "rooms": 4,
+      "image": "https://www.sweethomebodrum.com/images/emlaklar/orginal/040620120852m%20(1).jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Tarihi Konak",
+      "description": "Tarihle iç içe yaşam",
+      "location": "Safranbolu",
+      "price": 1100000,
+      "type":"Satılık",
+      "rooms": 5,
+      "image": "https://wp.oggusto.com/wp-content/uploads/2022/09/pacacioglu-bag-evi-safranbolu.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Dağ Evi",
+      "description": "Doğayla baş başa kalmak isteyenler için",
+      "location": "Bolu",
+      "price": 95000,
+      "type":"Kiralık",
+      "rooms": 3,
+      "image": "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/06/dag-evleri-ve-rezidans-yapilar.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Şehir Dışı Çiftlik Evi",
+      "description": "Geniş arazi içinde harika bir ev",
+      "location": "Konya",
+      "price": 6250000,
+      "type":"Satılık",
+      "rooms": 5,
+      "image": "https://gezginnerede.com/wp-content/uploads/2024/03/Ciftlik-Evi-Tasarimi-Hakkinda-Bilinmesi-Gerekenler.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Müstakil Ev",
+      "description": "Sakin bir yaşam için ideal",
+      "location": "Adana",
+      "price": 80000,
+      "type":"Kiralık",
+      "rooms": 4,
+      "image": "https://www.emlakdergisi.net.tr/wp-content/uploads/2023/06/Depremden-etkilenen-11-ilde-456-bin-770-kalici-konut-yapilacak-3.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Şehir Merkezinde Daire",
+      "description": "Merkezi konumda konforlu daire",
+      "location": "Ankara",
+      "price": 85000,
+      "type":"Kiralık",
+      "rooms": 3,
+      "image": "https://i0.shbdn.com/photos/84/42/95/x5_11188442951lh.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Havuzlu Yazlık",
+      "description": "Tatil için harika bir yer",
+      "location": "Çeşme",
+      "price": 8000000,
+      "type":"Satılık",
+      "rooms": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfDq3s7Njep0eITL7Yb4igUv8u7V8-dQ9Jw&s"
+    },
+    {
+      "id": 19,
+      "title": "Lüks Rezidans",
+      "description": "Şehir merkezinde lüks yaşam",
+      "location": "İstanbul",
+      "price": 220000,
+      "rooms": 4,
+      "type":"Kiralık",
+      "image": "https://cdn.hangiev.com/iskele-long-beach-satilik-daire-202303001090090003281470L5B6BUA.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Deniz Manzaralı Apartman",
+      "description": "Deniz manzaralı modern daire",
+      "location": "İzmir",
+      "price": 4750000,
+      "type":"Satılık",
+      "rooms": 3,
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-612070999894533693/original/8dbfa745-c883-4cd7-a665-cba64efd15a4.jpeg?im_w=720"
+    }
+  ]
+  

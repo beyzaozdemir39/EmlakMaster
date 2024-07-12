@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.ant-layout-header {
+  background: #001529;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.ant-layout-footer {
+  text-align: center;
+}
+
+.add-house-card, .customer-requests-card, .filter-card {
+  margin-bottom: 16px;
+}
+
+.ant-card {
+  border-radius: 8px;
+}
+
+.ant-card-head {
+  background-color: #001529;
+  color: white;
+}
+
+.ant-card-head-title {
+  color: white;
+}
+
+.ant-btn-primary {
+  background-color: #1890ff;
+  border-color: #1890ff;
+}
+
+.nav-buttons {
+  display: flex;
+  align-items: center;
+  margin-left: auto; 
+}
+
+.site-name {
+  font-size: 24px;
+  color: white;
+  margin-right: auto;  
+}

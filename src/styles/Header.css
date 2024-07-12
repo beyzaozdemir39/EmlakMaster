@@ -1,0 +1,39 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #001529;
+    padding: 0 20px;
+    height: 64px;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 20px;
+  }
+  
+  .menu {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    background-color: #001529;
+  }
+  
+  .menu-item {
+    color: white;
+    padding: 0 15px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .menu-item:hover {
+    background-color: #9cc6ed;
+    color: white;
+  }
+  
+  .logout {
+    cursor: pointer;
+  }
+  

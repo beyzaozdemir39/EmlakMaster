@@ -1,0 +1,21 @@
+.customer-requests {
+  padding: 20px;
+}
+
+.filter-card {
+  margin-bottom: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.email-section {
+  margin-top: 20px;
+}
+
+.email-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+}
